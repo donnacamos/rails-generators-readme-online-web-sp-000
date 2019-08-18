@@ -5,7 +5,7 @@ class AdminController < ApplicationController
   def stats
   end
 
-  def financial
+  def financials
   end
 
   def settings

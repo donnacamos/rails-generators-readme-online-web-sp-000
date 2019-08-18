@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'admin/financials'
+
   get 'admin/dashboard'
 
   get 'admin/stats'
